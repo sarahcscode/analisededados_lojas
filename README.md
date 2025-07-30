@@ -1,11 +1,4 @@
-Claro! Aqui está o `README.md` atualizado com:
 
-1. ✅ **Exemplos de gráficos e insights obtidos**
-2. ✅ **Instruções para executar o notebook**
-
----
-
-````markdown
 # 📊 Análise de Vendas - Challenge Data Science (Alura)
 
 Este repositório contém um notebook em Python que realiza a ingestão e análise exploratória de dados de vendas de quatro lojas distintas. Os dados são fornecidos em formato CSV e hospedados publicamente no GitHub da Alura.
