@@ -51,23 +51,9 @@ loja4 = pd.read_csv(url4)
 * Python 3.x
 * pandas
 
-## 🚀 Como executar
-
-1. Clone este repositório:
-
-```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-```
-
-2. Abra o notebook Jupyter e execute as células.
-
 ---
 
 Feito com 💙 por Sarah 
 
 ```
 
----
-
-Se quiser, posso ajustar com base em um notebook específico ou incluir exemplos de visualizações e análise. Deseja isso?
-```
